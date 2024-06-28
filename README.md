@@ -9,11 +9,11 @@
 
 <p align="left">  <!-- 左边：个人简介 和 语言  -->
 
-**About Me[^1]:**
+**About Me:**[^1]
 - ❤️ Coding, exploring, and running.
 - 📫 Reach me: yangliuly1993@gmail.com.
 
-**Languages[^2]:**
+**Languages:**[^2]
 	
 <p align="center"> 
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> 
@@ -38,9 +38,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="70" height="70"/> 
 </a> 
 </p>
-
 </p>
 
+</br>
+</br>
 </br>
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangly0">https://profile-summary-for-github.com/user/Yangly0</a>
