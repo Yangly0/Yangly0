@@ -16,14 +16,32 @@
 **Languages[^2]:**
 	
 <p align="center"> 
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
+</a> 
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
 </a>
 </p>
+
+<p align="center">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="70" height="70"/> 
+</a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="70" height="70"/> 
+</a> 
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="70" height="70"/> 
+</a> 
 </p>
+
+</p>
+
+</br>
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangly0">https://profile-summary-for-github.com/user/Yangly0</a>
 [^2]: <a href="https://github.com/devicons/devicon/tree/master/icons">https://github.com/devicons/devicon/tree/master/icons</a>
