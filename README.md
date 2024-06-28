@@ -1,16 +1,15 @@
-## 👋Hi, Here is Yangly0! <img align="right" src="https://profile-counter.glitch.me/Yangly0/count.svg" />
+## Hi 👋, Here is Yangly0! <img align="right" src="https://profile-counter.glitch.me/Yangly0/count.svg" />
 
 <p align="right">   <!-- 右边：Git信息 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangly0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yangly0" alt="Yangly0" /> 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangly0&theme=transparent&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+<a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=Yangly0&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">  <!-- 左边：个人简介 和 语言  -->
 
 **About Me:**[^1]
-- ❤️ Coding, exploring, and running.
+- ❤️ Coding, Exploring, and Running.
 - 📫 Reach me: yangliuly1993@gmail.com.
 
 **Languages:**[^2]
