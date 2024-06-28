@@ -16,13 +16,15 @@
 **Languages[^2]:**
 	
 <p align="center"> 
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 </p>
 </p>
-</br>
-</br>
+
 </br>
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangly0">https://profile-summary-for-github.com/user/Yangly0</a>
