@@ -8,10 +8,10 @@
 <p align="left">  <!-- 左边：个人简介 和 语言  -->
 
 **About Me:**[^1]
-- ❤️ Running, Coding,and Exploring.
+- ❤️ Running, Coding, and Exploring. 
 - 📫 Reach me: yangliuly1993@gmail.com.
 
-**Languages:**[^2]
+**About Languages:**[^2]
 <p align="center"> 
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
