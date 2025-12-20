@@ -2,7 +2,7 @@
 
 <p align="right">   <!-- 右边：Git信息 -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangly0&theme=transparent&show_icons=true&hide_title=true" /></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats-eight.vercel.app/api?user=yangly0&theme=transparent&short_numbers=true" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats-eight.vercel.app/api?user=yangly0&theme=transparent&short_numbers=true&hide_title=true&card_width=500" /></a>
 </p>
 
 <p align="left">  <!-- 左边：个人简介 和 语言  -->
