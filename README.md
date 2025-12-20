@@ -6,6 +6,7 @@
 </p>
 
 <p align="left">  <!-- 左边：个人简介 和 语言  -->
+
 **About Me:**[^1]
 - ❤️ Running, Coding,and Exploring.
 - 📫 Reach me: yangliuly1993@gmail.com.
@@ -31,6 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="30" height="30"/> 
 </a> 
 </p>
+
 </p>
 
 </br>
@@ -39,9 +41,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
+
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangly0">https://profile-summary-for-github.com/user/Yangly0</a>
 [^2]: <a href="https://github.com/devicons/devicon/tree/master/icons">https://github.com/devicons/devicon/tree/master/icons</a>
