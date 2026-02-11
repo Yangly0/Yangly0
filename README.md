@@ -1,4 +1,4 @@
-## Hi 👋, Here is Yang! <img align="right" src="https://komarev.com/ghpvc/?username=yangly0" />
+## Hi 👋, Here is Yang! <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=yangly0" /></a>
 
 <p align="right">   <!-- 右边：Git信息 -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="./profile/stats.svg" /></a>
