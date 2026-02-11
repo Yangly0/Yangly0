@@ -21,6 +21,11 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=transparent&hide_border=true&show_icons=true&hide_title=true
           path: profile/stats.svg
           token: ${{ secrets.GP_USER_TOKEN }}
+      
+      - name: Generate streak card
+        run: |
+          curl -o profile/streak-stats.svg \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=transparent&hide_border=true&short_numbers=true&theme=transparent&hide_border=true&short_numbers=true"
 
       - name: Commit cards
         run: |
