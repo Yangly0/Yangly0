@@ -1,7 +1,7 @@
 ## Hi 👋, Here is Yang! <img align="right" src="https://komarev.com/ghpvc/?username=yangly0" />
 
 <p align="right">   <!-- 右边：Git信息 -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangly0&theme=transparent&hide_border=true&show_icons=true&hide_title=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="./profile/stats.svg" /></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats-eight.vercel.app/api?user=yangly0&theme=transparent&hide_border=true&short_numbers=true" /></a>
 </p>
 
