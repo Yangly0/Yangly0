@@ -1,4 +1,4 @@
-# Hi 👋, Here is Yang! <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=yangly0" /></a>
+# 👋 Hi, Here is Yang! <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=yangly0" /></a>
 
 <table border="0">
   <tr>
@@ -16,11 +16,9 @@
 </table>
 
 ## 🌟 About Me
-- 💡  Live my life on my own terms.
-- ❤️ Running, Coding, and Exploring. 
-- 📫 Reach me, yangliuly1993@gmail.com.
-- 🤖 Tech Stack:
-
+- 🚀 Live life on my own terms.
+- ❤️ Run, Code, and Explore. 
+- 🛠️ Tech Stack: 
 ```
 Languages = ["C/C++", "Python"]
 Frameworks = ["OpenGL", "OpenCV", "PyTorch"]
