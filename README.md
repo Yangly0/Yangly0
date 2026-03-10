@@ -10,11 +10,10 @@
 - 🤖 Tech Stack:
 
 ```
-Languages = ["c/c++", "python"]
-Frameworks = [,"Opengl", "Opencv", "PyTorch"]
+Languages = ["C/C++", "Python"]
+Frameworks = ["OpenGL", "OpenCV", "PyTorch"]
 ```
-
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="./profile/stats.svg" /></a>
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="./profile/streak-stats.svg" /></a>
-
+</p>
